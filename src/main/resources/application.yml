@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+security:
+  jwt:
+    secret: YWJjZGVmZ2hpamtsbW5vcA==
+  
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/shared_db
+    username: postgres
+    password: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: update
