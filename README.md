@@ -1,4 +1,4 @@
-# Secure E-Commerce Platform – Week 9
+# Secure E-Commerce Platform 
 
 ## Features
 - JWT Authentication (Access + Refresh Tokens)
